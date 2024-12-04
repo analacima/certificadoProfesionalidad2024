@@ -1,2 +1,2 @@
 # certificadoProfesionalidad2024 pruebas para git
-# segundo cambio
+# segundo cambio, más cambios
